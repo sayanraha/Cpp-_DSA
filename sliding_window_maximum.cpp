@@ -5,6 +5,7 @@ void maxSubArray(vector<int> a, int k)
     // Algorithm
     
     deque<int> q(k);
+    
     int i;
     // 1. Process only the first k elements
     for (i = 0; i < k; i++)
