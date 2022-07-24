@@ -48,7 +48,8 @@
         "future": "cpp",
         "shared_mutex": "cpp",
         "thread": "cpp",
-        "functional": "cpp"
+        "functional": "cpp",
+        "random": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
